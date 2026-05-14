@@ -1,12 +1,20 @@
-# Hi, I'm Rose  Computer Science student👋
-Cybersecurity and  AI 
-Passionate about building secure, scalable, and impactful technology solutions. 
+# Hi, I'm Rose 
+A Computer Science student with a strong interest in Cybersecurity, Artificial Intelligence, and Software Development. Passionate about learning new technologies and  building practical projects.
+
+##  Areas of Interest
+- Cybersecurity
+- Artificial Intelligence
+- Open Source
+- Web Development
 ##  Tech Stack
-Python • Java • C • JavaScript • React • Node.js • Git • Linux
-##  Interests
-- Security Research
-- AI-Powered Applications
-- Cloud & System Security
-- Developer Communities & Innovation
+-Python 
+-Java 
+-JavaScript
+-React 
+-Node.js
+-Linux 
+-C Programming
+- HTML & CSS
+- Git & GitHub
 ##  Goals
 Building technology that is secure, intelligent, and meaningful.
